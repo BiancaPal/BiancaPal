@@ -1,12 +1,12 @@
 <table align="left"><tr><td align="left" width="9999">
 
-# Hey There! My name is [Alex](https://alexbejenaru.dev), welcome to my GitHub page.
+# Hey There! My name is [Bianca] welcome to my GitHub page.
 
-Here is a peek of my actual interests, I hope you enjoy it!
+Here are some of the programming languages I use the most, sorted by degree of use.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alexbeje&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alexbeje&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexbeje&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexbeje&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 See you around!
 
